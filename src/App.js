@@ -37,7 +37,7 @@ class App extends Component {
     }
 
     borrarCita = id => {
-      console.log(id);
+    
 
       const citasActuales = [...this.state.citas];
 
